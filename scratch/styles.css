@@ -1,0 +1,45 @@
+body{
+    font-family: Papyrus, Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(111, 174, 113);
+    color: rgb(135, 23, 228);
+    background-image: url(Ice\ Cream\ Image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color:rgb(145, 227, 199);
+    background-color: gray;
+}
+a:visited{
+    color: aqua;
+}
+h1,h2{
+    text-align: center;
+}
+img{
+    border: 5px solid orange;
+    padding: 5px;
+    height: 250px;
+    /* margin: auto; */
+    /* display: block; */
+}
+.rizz{
+    font-family: cambria;
+    color: blanchedalmond;
+    border: 5px dashed pink;
+    font-size: 400%;
+    font-weight: bolder;
+    background-color: azure;
+}
+.rizz:hover{
+    font-size: 450%;
+    color: brown;
+    border: 5px solid rgb(161, 208, 50);
+}
+li{
+    width: fit-content;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: darkgray;
+}

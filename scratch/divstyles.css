@@ -1,0 +1,33 @@
+.common{
+    /* border: 2px solid coral; */
+    position: absolute;
+}
+.nav{
+    position: relative;
+    float: right;
+    font-size: 75%;
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    font-size: 50%;
+    font-style: italic;
+    text-align: center;
+    background-color: rgba(161, 171, 179, 0.9);
+}
+.header{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    z-index: -1;
+}
+.content{
+    top: 70px;
+    left: 10%;
+    right: 10%;
+    bottom: 30%;
+    background-color: rgba(188, 188, 102, 0.9);
+}
